@@ -4,7 +4,7 @@
 
 ---
 ### 🚀 Tools
-| Name | Description | Access | Code | README | Live Demo |
-| --- | --- | --- | --- | --- | --- |
-
+| Name | Description | Access | README |
+| --- | --- | --- | --- |
+|  IA_Tester_Proyect | A script on Python for logic testing | `Free` | [Github](https://github.com/alcajorV2/IA_Tester_Proyect) |
 ---
