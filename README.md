@@ -7,5 +7,4 @@
 | Name | Description | Access | README |
 | --- | --- | --- | --- |
 |  IA_Tester_Proyect | A script on Python for logic testing | `Free` | [Github](https://github.com/alcajorV2/IA_Tester_Proyect) |
-|  IA_Food101_Image_Classifer | An IA proyect for Food classification | `Free` | [Github](https://github.com/alcajorV2/IA-Food-Image-Classifier) |
 ---
